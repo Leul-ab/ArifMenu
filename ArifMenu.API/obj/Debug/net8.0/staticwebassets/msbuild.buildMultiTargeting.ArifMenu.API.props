@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArifMenu.API.props" />
+</Project>
